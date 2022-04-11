@@ -1,0 +1,14 @@
+.header{
+    background-color: #1C2B35;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 140px;
+    padding-right: 140px;
+}
+.header a{
+    text-decoration: none;
+    color: #ffffff;
+    margin-left: 40px;
+}
